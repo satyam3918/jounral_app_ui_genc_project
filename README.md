@@ -1,0 +1,1 @@
+# jounral_app_ui_genc_project
